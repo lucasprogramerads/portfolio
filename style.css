@@ -1,0 +1,45 @@
+body {
+    /* background-color: antiquewhite; */
+    /* background-image: url("./images/blank-business-composition-computer-373076.jpg"); */
+    /* background-size: 100%; */
+    /* opacity: 0.5; */
+}
+
+.bgc-1 {
+    background-color: aqua;
+}
+
+.bgc-2 {
+    background-color: burlywood;
+}
+
+h1 {
+    font-family: serif;
+    font-weight: bold;
+    color: #454545;
+}
+
+.pr-10 {
+    padding-right: 10rem;
+}
+
+.pl-10 {
+    padding-left: 10rem;
+}
+
+.fs-5 {
+    font-size: 20pt;
+}
+
+.img-perfil {
+    /* margin-top: -6.5rem; */
+    height: 100vh;
+    max-height: 700px;
+}
+
+.img-background {
+    position: absolute;
+    height: 100vh;
+    max-height: 700px;
+    opacity: 0.4;
+}
