@@ -1,7 +1,16 @@
+.top {
+    padding-top: 2vw;
+}
+
 h1 {
     font-family: serif;
     font-weight: bold;
     color: #454545;
+    font-size: 2vw;
+}
+
+.paragrafos {
+    margin-top: 4vw;
 }
 
 .pr-10 {
@@ -13,25 +22,22 @@ h1 {
 }
 
 .fs-2 {
-    font-size: 1.6em;
+    font-size: 1.87vw;
+}
+
+p {
+    margin-bottom: 1.5vw;
 }
 
 .img-perfil {
-    height: 100vh;
-    max-height: 700px;
+    width: 16.5vw;
 }
 
 .img-background {
     position: absolute;
-    height: 100vh;
-    max-height: 700px;
     opacity: 0.4;
-
-    max-width: 100%;
-
+    width: 100%;
     display: block;
-
-    min-width: 100%;
 }
 
 h2 {
